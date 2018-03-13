@@ -1,0 +1,69 @@
+{
+  "series": [
+    {
+      "id": 1,
+      "name": "How I met your mother",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": "Muito bom"
+    },
+    {
+      "id": 2,
+      "name": "Friends",
+      "status": "watching",
+      "genre": "Comédia",
+      "current": {
+        "episode": "01",
+        "season": "09"
+      },
+      "comments": "Bom para descontrair"
+    },
+    {
+      "id": 3,
+      "name": "Breaking Bad",
+      "status": "watched",
+      "genre": "Drama",
+      "comments": "Say My Name - melhor cena"
+    },
+    {
+      "id": 4,
+      "name": "Better Call Saul",
+      "status": "toWatch",
+      "genre": "Drama",
+      "comments": "Galera fala bem"
+    },
+    {
+      "name": "Teste",
+      "status": "watched",
+      "genre": "Comédia",
+      "coments": "teste teste",
+      "id": 6
+    },
+    {
+      "name": "teste de Ação",
+      "status": "watched",
+      "genre": "Ação",
+      "coments": "TEste de AÇÃO AÇÃO",
+      "id": 7
+    },
+    {
+      "name": "Teste de ação",
+      "status": "watched",
+      "genre": "Ação",
+      "coments": "TEste de ação",
+      "id": 8
+    },
+    {
+      "name": "tESTE 2",
+      "status": "watched",
+      "genre": "Ação",
+      "coments": "TESTE 12123123",
+      "id": 9
+    }
+  ],
+  "genres": [
+    "Comédia",
+    "Drama",
+    "Ação"
+  ]
+}
